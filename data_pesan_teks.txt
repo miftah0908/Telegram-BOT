@@ -13,10 +13,10 @@ bot akan memuat teks yang mengandung kosakata dan mengembalikan kalimat balasan
 
 Hai Sayang$                       = 
  Nama User :%nama
- Nama Bot : IkhsanBot[BETA]〽️
- Nama Owner : @Ikhsan5475〽️
+ Nama Bot : MiftahBot[BETA]〽️
+ Nama Owner : @MiftahGanzZ〽️
  Prefix : 「 # 」
- Days : %tanggal November 2022
+ Days : %tanggal Desember 2022
  Total Pengguna : 194
  Runtime : 24 Jam, 52 Detik
  Speed : 0.6756 Seconds
@@ -141,15 +141,15 @@ Hai Sayang$                       =
 │ ❖#template
 └⬣;
 
-#infobot                        =  Pembuat Bot: IKHSAN〽️
-Nomor Bot(WA) :wa.me/6283137750223
-Telegram  :@Ikhsan5475
+#infobot                        =  Pembuat Bot: Miftah〽️
+Nomor Bot(WA) :wa.me/6282126435320
+Telegram  :@MiftahGanz
 Jenis Script : PHP
 ╔═════════
 ║ INFO BOT BY IKHSAN 〽️ 
 ╠════════════════════
 ║╭──❉ INFO BOT ❉─────
-║│➸ BOT NAME: IkhsanBot[BETA] 〽️
+║│➸ BOT NAME: MiftahBot[BETA] 〽️
 ║│➸ USER : NOT VIP
 ║│➸ BOT DATE: %tanggal Juni 2022
 ║│➸ POWER BOT: 10%
@@ -163,19 +163,19 @@ Jenis Script : PHP
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║        
 ╠════════════════════
-║ POWERED BY IKHSAN 〽️
+║ POWERED BY Miftah 〽️
 ╚════════════════════
 
-DONASI KAK🐣:+6283137750223[Axis Kuota/Pulsa]
-                           :+62895402117276[3 Kuota/Pulsa];
+DONASI KAK🐣:+6282126435320[Telkomsel Kuota/Pulsa]
+                           :+6285171226069[3 Dana];
 
 #donasi                         =  Hallo, kak %nama〽️ bantu donasi ya supaya bot lebih baik👋
 ╔════════════════════
-║ *DONASI UNTUK YnzBotZ 〽️ *
+║ *DONASI UNTUK MiftahBotz〽️ *
 ╠════════════════════
 ║╭──❉ DONASI KAK ❉─────
-║│➸ PULSA AXIS: 6283137750223
-║│➸ PULSA 3:62895402117276
+║│➸ PULSA Telkom: 6282126435320
+║│➸ Dana  :6285171226069
 ║│
 ║╰──────────────────
 ╠════════════════════
@@ -185,7 +185,7 @@ DONASI KAK🐣:+6283137750223[Axis Kuota/Pulsa]
 ║  ▌│█║▌║▌║║▌║▌║█│▌
 ║        
 ╠════════════════════
-║ POWERED BY IKHSAN 〽️
+║ POWERED BY MIFTAH 〽️
 ╚════════════════════
 
 
@@ -194,7 +194,7 @@ Note:
 
 Nyari nomor owner??,ketik #owner;
 
-#owner                          =  Ni Kak %nama @Ikhsan5475;
+#owner                          =  Ni Kak %nama @MiftahGanz;
 
 #peraturan                      =  ⚙️PERATURAN⚙️
 ╔════════════════╗
@@ -215,10 +215,10 @@ Nyari nomor owner??,ketik #owner;
 ║             
 ║   ▌│█║▌║▌║║▌║▌║█│▌
 ║   ▌│█║▌║▌║║▌║▌║█│▌
-║      IKHSAN Telegram
+║      MIFTAH Telegram
 ╚════════════════╝;
 
-#apkhack                        = ╭─「 IKHSAN Bot〽️ 」
+#apkhack                        = ╭─「 MIFTAH Bot〽️ 」
 ║╭─────  
 ║├「INFORMATION」
 ║│ USERNAME: %nama
@@ -245,7 +245,7 @@ Nyari nomor owner??,ketik #owner;
 ║ada di menu bot
 ║
 ║
-╰─「©By Ikhsan 〽️」;
+╰─「©By Miftah 〽️」;
 
 #termux                         = 🔰TERMUX MOD APK TERBARU 🔰
 
@@ -282,12 +282,12 @@ Link: https://safefileku.com/download/w3jXQXw1OEd1WdG;
 
 #scdeface                       = Menu Error;
 
-#tools                          = ╭─「 IKHSAN BOT〽️ 」
+#tools                          = ╭─「 MIFTAH BOT〽️ 」
 ║╭─────  
 ║├「 lNFORMATION 」
 ║│ USERNAME: %nama
 ║│ ACCOUNT : STANDAR
-║│ DATE: %tanggal MARET 2021
+║│ DATE: %tanggal Desember 2022
 ║│ POWER BOT: 10%
 ║│ BOT VERSION : 1.0[BETA]
 ║│ TIME/HOUR : %jam %menit
@@ -313,7 +313,7 @@ Link: https://safefileku.com/download/w3jXQXw1OEd1WdG;
 ║yang kami kumpulkan dari
 ║beberapa Website.
 ║
-╰─「©By IKHSAN〽️」;
+╰─「©By MIFTAH〽️」;
 
 #darkfb                         = TOOLS DARK FB V1.9
 
@@ -490,7 +490,7 @@ python2 weeman.py;
 [ https://www.mediafire.com/file/lvw4guvpz6bfmvh/WhatsApp_2.20.207.19.apk/file ]
 
     
-       Powered by IKHSAN 〽️;
+       Powered by MIFTAH 〽️;
 
 #modapk                         =  •Auto Responder For WhatsApp
 https://www.mediafire.com/file/mbjiw1v7gx2beum/AutoResponder_untuk_WA_2.4.0.apk/file
@@ -523,7 +523,7 @@ https://www.mediafire.com/download/tw9zwj2km2tjsnh
 • 90s (PRO)
 https://www.mediafire.com/download/0y2bba69f6wakuh;
 
-#grupbot                        = Grup Official :https://chat.whatsapp.com/Lp1h2L7yPRT4VIvNG3yT4r;
+#grupbot                        = Grup Official :https://chat.whatsapp.com/EUz1G1WuZXdHHXPZ5jIPaj*;
 
 #intro                          = 🐣INTRO DULU KAK🐣
 ╭━━━━━━━━━━━━━
@@ -537,7 +537,7 @@ https://www.mediafire.com/download/0y2bba69f6wakuh;
 ╰━━━━━━━━━━━━━
 ༆●SEMOGA BETAH<3●༆
 
-   © Created By IKHSAN〽️;
+   © Created By MIFTAH〽️;
 
 #pantun                         = Menu Dimatikan;
 
@@ -772,7 +772,7 @@ https://play.google.com/store/apps/details?id=com.frontrow.vlog
 5. Inshot : 
 https://play.google.com/store/apps/details?id=com.camerasideas.instashot
 
-       Powered by IKHSAN 〽️;
+       Powered by MIFTAH 〽️;
 
 #apkmusic                       = 1. FL studio mobile :
 https://play.google.com/store/apps/details?id=com.imageline.FLM
@@ -800,7 +800,7 @@ https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor
 5. Pixlr
 https://play.google.com/store/apps/details?id=com.pixlr.express
 
-      Powered by IKHSAN 〽️;
+      Powered by MIFTAH 〽️;
 
 #apkjedagjedug                  = 1. Alight Montion :
 https://play.google.com/store/apps/details?id=com.alightcreative.motion
@@ -820,7 +820,7 @@ https://play.google.com/store/apps/details?id=com.camerasideas.instashot;
 #apkhpsbgfoto                   = *_Hapus Background Foto Adalah Editing Hal Yang Gampang Gampang
 Susah Karena Kita Harus Menghapus Background Dari Foto Dan Mengambil Foto Yang Tidak Kita Hapus_*
 
-_YnzBotZ🤖 Telah Menyediakan 2 Apk/Cara Untuk hapus Background:_
+_MiftahBotZ🤖 Telah Menyediakan 2 Apk/Cara Untuk hapus Background:_
 
 1. Cara Instan
 
@@ -843,7 +843,7 @@ Berikut Beberapa Apk Yang Bisa Kita Gunakan :
 
 𝙑𝙄𝘿𝙀𝙊 𝘿𝙊𝙎𝘼
 
-👾©IKHSAN 〽️👾;
+👾©Miftah 〽️👾;
 
 #dosa2                          = 么
 
@@ -853,7 +853,7 @@ Berikut Beberapa Apk Yang Bisa Kita Gunakan :
 
 𝙑𝙄𝘿𝙀𝙊 𝘿𝙊𝙎𝘼 ( 4 )
 
-👾 𝙎𝘾 𝘽𝙔 IKHSAN👾;
+👾 𝙎𝘾 𝘽𝙔 Miftah👾;
 
 #listhp                           = 📱List Hp Yg Tersedia Di Tahun 2021
 
@@ -921,7 +921,7 @@ Memori eksternal: Micro SD slot (up to 512GB)
 Baterai: 4000 mAh
 Biometric Authentications: Rear Fingerprint,Face Recognition
 
-🔰IKHSAN BOT🔰;
+🔰MIFTAH BOT🔰;
 
 #oppo                            = 1. OPPO Reno2
 Harga: Rp 7.999.000
@@ -976,7 +976,7 @@ Kamera Depan: 16 MP
 Baterai: 5000 mAh
 Warna: Marine Green dan Space Purple
 
-🔰IKHSAN BOT🔰;
+🔰MIFTAH BOT🔰;
 
 #realme                          = 1. Realme 5S
 Harga: Rp 2.699.000
@@ -1067,10 +1067,10 @@ SIM: Dual SIM + slot microSD
 IR blaster: Ada 
 Lainnya: Wireless FM Radio, Corning Gorilla Glass 5 , Wireless FM Radio
 
-🔰IKHSAN BOT🔰;
+🔰MIFTAH BOT🔰;
 
 #daftar                          = 「 PENDAFTARAN USER 」
-Thanks Telah Terdaftar Di GoodBoy-BOTz ☕
+Thanks Telah Terdaftar Di MiftahBoy-BOTz ☕
 ┏━━⬣ 𝙄𝙉𝙁𝙊  『 USER INFO 』  
 ┃❏ 〽️ Nama : %nama
 ┃❏ 〽️ Api : @%nama

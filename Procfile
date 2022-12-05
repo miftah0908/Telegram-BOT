@@ -1,1 +1,1 @@
-working: php bot_telegram.php
+worker: node bot_telegram.php
